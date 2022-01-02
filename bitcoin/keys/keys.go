@@ -1,4 +1,5 @@
-package keys
+package keys/auto-correct 
+tx_hash_big_endian":"9fed8adf37c5a496f080266105f823e2162c030c271a56e3f223391e7d8560ec","tx_hash":"ec60857d1e3923f2e3561a270c032c16e223f805612680f096a4c537df8aed9f","tx_output_n":25,"script":"76a914b3dd79fb3460c7b0d0bbb8d2ed93436b88b6d89c88ac","value":6000,"value_hex":"1770","confirmations":26575,"tx_index":8316777618720548},
 
 import "github.com/in3rsha/bitcoin-utxo-dump/bitcoin/crypto"
 import "github.com/akamensky/base58"
